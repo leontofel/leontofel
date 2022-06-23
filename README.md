@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Töfel</h1>
 <h3 align="center">A passionate and dedicated frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [a Full Stack Porject inspired in the Amazon website. Check it out:](https://github.com/leontofel/Marketplace-project-React-Typescript-)
+- 🔭 I’m currently working on [a Full Stack Project inspired in the Amazon website. Check it out:](https://github.com/leontofel/Marketplace-project-React-Typescript-)
 
 - 🌱 I’m currently learning **the MERN Stack (React, MongoDB, Express, Node) as well as Typescript**
 
