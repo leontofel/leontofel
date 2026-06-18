@@ -1,30 +1,112 @@
-<h1 align="center">Hi 👋, I'm Leonardo Töfel</h1>
-<h3 align="center">A passionate and dedicated frontend developer from Brazil</h3>
+<h1 align="center">Hi, I'm Leonardo Töfel 👋</h1>
+<h3 align="center">Full Stack Software Developer | Java · Vue.js · Quasar · Nuxt.js · Rails · MySQL</h3>
 
-- 🔭 I’m currently working on [a Full Stack Project using Go and React. Check it out:](https://github.com/leontofel/jurisdictio-client) (https://github.com/leontofel/jurisdictio-app)
-
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Ask me about **Vue3, Ruby on Rails, NodeJS**
-
-- 📫 How to reach me **leo.tofel@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/leon-tofel/](https://www.linkedin.com/in/leon-tofel/)
-
-- ⚡ Fun fact **People used to say I looked like a programmer way before I even considered becoming one. I ended up writing the book for the cover I was judge by, go figure!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/leon-tofel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leon-tofel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/leonardo-töfel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="leonardo-töfel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/leo_tofel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leo_tofel" height="30" width="40" /></a>
+<p align="center">
+  📍 Porto Alegre, RS, Brazil &nbsp;|&nbsp; 🌐 Remote &nbsp;|&nbsp; 🇬🇧 English (C1)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/leon-tofel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/leontofel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:leo.tofel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leontofel&show_icons=true&locale=en&layout=compact" alt="leontofel" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leontofel&show_icons=true&locale=en" alt="leontofel" /></p>
+### 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leontofel&" alt="leontofel" /></p>
+I'm a Software Developer with hands-on experience across full stack web development, mobile apps, REST/GraphQL APIs, third-party integrations, legacy system modernization, CI/CD automation, and VPS server administration. I've shipped software for law firm ERP systems, calculation engines, educational platforms, banking/fintech mobile products, and generative AI integrations.
+
+- 🔭 Currently working on modernizing legacy systems and building AI-powered features at **Exotics Informática**
+- 🎓 Pursuing a Bachelor's Degree in Information Systems at **UNISINOS** (2022–2026)
+- 🌱 Always learning — agile methodologies, TDD, and clean code organization
+- 🤝 Enjoy mentoring interns and collaborating closely with clients to turn requirements into intuitive products
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
+</p>
+
+**Mobile**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+
+**Database**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**DevOps & Infra**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+**AI & Automation**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+---
+
+### 💼 Experience
+
+**Full Stack Developer** — Exotics Informática *(2023 – 2026, Remote)*
+- Modernized a widely-used calculation system in southern Brazil, refactoring the backend in Java/MySQL and exposing a REST API
+- Separated and rebuilt the frontend with Vue.js, Quasar, and TypeScript for better maintainability and scalability
+- Built features for a law firm ERP system (Vue.js + Quasar frontend, Ruby on Rails + MySQL backend)
+- Delivered generative AI features for educational software using Node.js, Nuxt.js, and the OpenAI API
+- Set up CI/CD pipelines with GitHub Actions and managed VPS servers for stability and performance
+- Mentored interns on best practices, code organization, and version control
+
+**Frontend and Mobile Developer** — Lead Up Software Consultants *(2022 – 2023, Remote)*
+- Built responsive customer-facing interfaces with React, Next.js, Tailwind CSS, and Chakra UI
+- Contributed to a React Native banking app, including crypto wallets and secure transaction flows
+- Integrated GraphQL APIs with Prisma and TypeScript for strongly-typed, efficient data handling
+- Worked directly with clients across an agile team to ship scalable frontend and mobile solutions
+
+---
+
+### 🎓 Education
+
+**Bachelor's Degree in Information Systems** — Universidade do Vale do Rio dos Sinos (UNISINOS) *(2022 – 2026)*
+Coursework: Java & Python programming, algorithms, software engineering, requirements analysis, prototyping, QA, TDD, agile methodologies
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/leon-tofel"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:leo.tofel@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐️ Thanks for stopping by!</i></p>
